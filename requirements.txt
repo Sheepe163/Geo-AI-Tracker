@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+google-generativeai
+pdf2image
+Pillow
+streamlit-cropper
+openpyxl
